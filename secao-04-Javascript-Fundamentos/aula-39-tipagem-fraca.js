@@ -9,4 +9,4 @@ console.log(typeof qualquer); // Number
 // Evitar nome genéricos e siglas
 let valor = '';
 let numero = 1;
-let pqp = false; // Produto Químico Perigoso... kkkk
+let pqp = false; // Produto Químico Perigoso... kkk
