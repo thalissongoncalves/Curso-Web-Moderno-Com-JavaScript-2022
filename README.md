@@ -2,9 +2,9 @@
 
 <h1>Curso sendo realizado pela plataforma da Udemy onde será abordado a seguinte lista:</h1>
 <br/>
-<p>-HTML</p>
-<p>-CSS</p>
-<p>-JavaScript</p>
+<p>-HTML ✅</p>
+<p>-CSS ✅</p>
+<p>-JavaScript ✅</p>
 <p>-Node</p>
 <p>-ESNext</p>
 <p>-Conceitos sobre Web</p>
